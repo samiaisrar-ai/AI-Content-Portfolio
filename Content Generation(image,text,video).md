@@ -59,18 +59,27 @@ To demonstrate how raw product photos can be elevated into polished, portfolio-r
 
 To inspire businesses and creators to explore AI as a tool for marketing and branding.
 
-## Step 01 — Raw Input
+Step 01 — Raw Input
 
 Usually businesses provide a simple **raw product photo** as the starting point.  
 Here is the uploaded bracelet image:
 
-![Handmade bracelet]![handmade bracelet](https://github.com/user-attachments/assets/21e48441-45e4-4d35-ac43-6f99b3bf152c)
+[handmade bracelet](https://github.com/user-attachments/assets/21e48441-45e4-4d35-ac43-6f99b3bf152c)
+
+### Step 02 — Cup Hold Pose  
+
+### Objective 
+Showcase the bracelet in a natural lifestyle setting where the model is holding a cup. This creates a casual yet stylish look, perfect for social media or branding.  
+
+### Prompt Used
+"Use the uploaded bracelet and place it on a beautiful, well-groomed hand with perfectly painted fuchsia pink nails. The hand should be posed elegantly, fingers slightly relaxed, with soft natural lighting. The background should be subtle and neutral to highlight the bracelet and nails. Make the image high-quality, realistic, and visually appealing."
+
+### Result
+<img width="1152" height="896" alt="Gemini_Generated_Image_cc5ry8cc5ry8cc5r" src="https://github.com/user-attachments/assets/c3af62b3-ba91-4df9-9ddd-6e5fd3c77ecb" />
 
 
 
 
-
-`## Step X — Short descriptive title` (e.g., `## Step 02 — Lifestyle image: Cup hold`)
 
 ### 1. Objective
 
