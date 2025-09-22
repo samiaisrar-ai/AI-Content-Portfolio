@@ -1,12 +1,13 @@
 
 # Content Generation with AI (Image • Text • Video)
 
-**Purpose:**I wanted to demonstrate how a simple raw image can be elevated using AI. For this case study, I took a plain bracelet photo and step by step generated different outputs: edited images, styled lifestyle shots, captions, hashtags, and scripts. This document records the entire journey — from the first input to polished content ready for social media.
+Purpose:
+I wanted to demonstrate how a simple raw image can be elevated using AI. For this case study, I took a plain bracelet photo and step by step generated different outputs: edited images, styled lifestyle shots, captions, hashtags, and scripts. This document records the entire journey — from the first input to polished content ready for social media.
 ---
 
-##📑 Table of Contents
+### 📑 Table of Contents
 
-Introduction:
+## Introduction:
 
 Workflow (Image Steps)
 
@@ -32,7 +33,7 @@ Results & Notes
 
 ---
 
-###📝 Introduction
+### 📝 Introduction
 
 This project showcases my AI-powered content creation workflow. I started with a simple raw bracelet photo and step by step transformed it into multiple high-quality outputs — lifestyle images, styled shots, captions, hashtags, and even short video scripts.
 
@@ -51,7 +52,7 @@ Consistency — Brand colors, tone, and style can be maintained across all visua
 Content variety — Businesses get enough material for websites, ads, and social media campaigns without repeating the same look.
 
 
-##🎯 Purpose of this repo
+## 🎯 Purpose of this repo
 
 To document my creative AI workflow
 
@@ -59,12 +60,13 @@ To demonstrate how raw product photos can be elevated into polished, portfolio-r
 
 To inspire businesses and creators to explore AI as a tool for marketing and branding.
 
-Step 01 — Raw Input
+### Step 01 — Raw Input
 
 Usually businesses provide a simple **raw product photo** as the starting point.  
 Here is the uploaded bracelet image:
 
-[handmade bracelet](https://github.com/user-attachments/assets/21e48441-45e4-4d35-ac43-6f99b3bf152c)
+![handmade bracelet](https://github.com/user-attachments/assets/a5f221d6-191a-4bfd-a797-31d6786a40ab)
+
 
 ### Step 02 — Cup Hold Pose  
 
