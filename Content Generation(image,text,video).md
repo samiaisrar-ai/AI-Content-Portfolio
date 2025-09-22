@@ -64,7 +64,8 @@ To inspire businesses and creators to explore AI as a tool for marketing and bra
 Usually businesses provide a simple **raw product photo** as the starting point.  
 Here is the uploaded bracelet image:
 
-![Handmade bracelet](https://i.ibb.co/6cvcnWs6/handmade-bracelet.jpg)
+![Handmade bracelet]![handmade bracelet](https://github.com/user-attachments/assets/21e48441-45e4-4d35-ac43-6f99b3bf152c)
+
 
 
 
