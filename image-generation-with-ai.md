@@ -72,4 +72,6 @@ On the wall beside her, include a black-and-white vector-style portrait of the s
 Mood & Style: modern, minimal, and sophisticated — a soft yet confident personal-branding aesthetic with balanced composition and subtle contrast.
 
 Original Image:
-<img width="400" height="400" alt="Gemini_Generated_Image_cnhibwcnhibwcnhi" src="https://github.com/user-attachments/assets/da5e71de-973e-497a-a1aa-2917f8c49b9a" />
+
+
+<img width="200" height="200" alt="Gemini_Generated_Image_cnhibwcnhibwcnhi" src="https://github.com/user-attachments/assets/da5e71de-973e-497a-a1aa-2917f8c49b9a" />
