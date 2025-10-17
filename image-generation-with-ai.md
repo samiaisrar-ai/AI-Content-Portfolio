@@ -55,3 +55,21 @@ Style – the overall aesthetic or genre
 Technical Specs – lens, composition, or aspect ratio
 
 Mood/Atmosphere – emotion or vibe you want to express
+
+
+
+
+### 🔹 Example 1: Professional Branding Portrait
+
+##Prompt Used:
+
+Create a hyper-realistic full-body portrait of the uploaded photo, standing confidently against a smooth light-beige or pastel wall. The outfit should look elegant and winter-appropriate, styled in a minimal yet classy way. The hands are in the coat pockets, with a sleek smartwatch or bracelet visible on the left wrist. One leg is slightly crossed over the other, showing a relaxed but empowered posture.
+
+Use soft professional studio lighting for a clean, natural glow and premium detail.
+
+On the wall beside her, include a black-and-white vector-style portrait of the same subject — modern, geometric, and feminine in tone. Beneath that graphic, add bold text saying “Samia Israr” in elegant clean typography, and underneath it, smaller text reading “Agentic AI Creator.”
+
+Mood & Style: modern, minimal, and sophisticated — a soft yet confident personal-branding aesthetic with balanced composition and subtle contrast.
+
+Original Image:
+![samia pic front face](https://github.com/user-attachments/assets/8d2e3a43-c2dc-413e-b66a-c72adea0e49d)
