@@ -14,12 +14,11 @@ This repo is designed for learners and freelancers who want to **master AI tools
 ---
 
 ## 📂 Structure
-| Folder | Description |
-|--------|--------------|
-| `prompts/` | Guides on writing perfect prompts for text, image, and video generation. |
-| `examples/` | Real outputs and examples to demonstrate results. |
-| `notes/` | Extra learning materials: technical vocabulary and personal learning timeline. |
-
+| Section | Topic | Description |
+|----------|--------|-------------|
+| 1 | **Prompt Engineering** | Covers the fundamentals of crafting effective prompts for AI models — including role prompting, context setup, and structure optimization to generate accurate and creative outputs. |
+| 2 | **Image Generation with AI** | Explains how to create high-quality visuals using AI image generation tools, along with techniques for improving realism, style control, and consistency. |
+| 3 | **Video Generation with AI** | Focuses on generating videos using AI tools, from script-to-video workflows to voiceovers, animations, and automation-based video creation. |
 ---
 
 ## 🎯 Goals
@@ -32,14 +31,12 @@ This repo is designed for learners and freelancers who want to **master AI tools
 
 ## 🧠 Tools Used
 - ChatGPT / Claude / Gemini for text generation
-- Leonardo.ai, Midjourney, or SDXL for images
+- Leonardo.ai, Gemini(Nano Banana), Stable Diffusion for images
 - Runway / Pika / Kaiber for video generation
-- n8n + OpenAI API for automation experiments
-
 ---
 
 ## 📈 Learning Path
-You can track how I learned prompt improvement, technical phrasing, and model settings in `/notes/learning-path.md`.
+You can track how I learned prompt improvement, technical phrasing, and model settings`.
 
 ---
 
