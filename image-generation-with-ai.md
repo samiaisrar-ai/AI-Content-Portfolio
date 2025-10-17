@@ -97,3 +97,12 @@ The combination of a vector portrait and clean typography reinforces a strong pe
 ## 💡 Key Insight:
 For branding-focused prompts, always mix subject grounding, body language, environmental context, and design details (like logos or text) to get a complete, professional result.
 
+### 2nd Prompt:
+Professional corporate headshot of a confident young girl of the uploaded image, wearing a tailored dark suit and white shirt, subtle smile, neutral blurred background, evenly lit with soft studio lights, sharp focus on the face, natural skin tones, minimal retouching, LinkedIn profile photo style.
+
+
+### Generated Image:
+<img width="1056" height="992" alt="Gemini_Generated_Image_szvy1jszvy1jszvy" src="https://github.com/user-attachments/assets/183afd65-8b42-4342-b70e-3250ae009c31" />
+
+
+
