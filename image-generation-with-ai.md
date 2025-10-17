@@ -106,7 +106,7 @@ Professional corporate headshot of a confident young girl of the uploaded image,
 
 
 
-### Important Areas to Focus for Product Photography
+# Important Areas to Focus for Product Photography
 
 ## Lighting
 
