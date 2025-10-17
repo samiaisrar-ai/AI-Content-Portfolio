@@ -75,3 +75,7 @@ Original Image:
 
 
 <img width="200" height="200" alt="Gemini_Generated_Image_cnhibwcnhibwcnhi" src="https://github.com/user-attachments/assets/da5e71de-973e-497a-a1aa-2917f8c49b9a" />
+
+## Generated Image:
+<img width="1024" height="1024" alt="Gemini_Generated_Image_u1f49zu1f49zu1f4" src="https://github.com/user-attachments/assets/4606bbd8-ee05-4464-9454-2f5d517e796c" />
+
