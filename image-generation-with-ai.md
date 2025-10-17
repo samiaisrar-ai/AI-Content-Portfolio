@@ -6,13 +6,13 @@ AI image generation works by interpreting your written description (for example,
 
 <img width="1024" height="1024" alt="Gemini_Generated_Image_dhwqw0dhwqw0dhwq" src="https://github.com/user-attachments/assets/f709ec11-06c4-4b02-b535-6f37d39142b7" />
 
-1. Be Specific, Not Generic
+## 1. Be Specific, Not Generic
 
 Don’t say: “a nice portrait”
 Better: “a hyper-realistic studio portrait with soft lighting and natural skin tones”
 The more clearly you describe what you want, the more accurately the AI will create it.
 
-2. Build Prompts with Visual Layers
+## 2. Build Prompts with Visual Layers
 
 Think of your prompt like a photo composition:
 
@@ -26,7 +26,7 @@ Include technical details (lens type, camera angle, resolution, aspect ratio)
 
 This helps the model understand what matters most visually.
 
-3. Use Professional Photography Terms
+## 3. Use Professional Photography Terms
 
 Using real photography language makes your prompts more realistic:
 
