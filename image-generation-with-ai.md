@@ -72,4 +72,4 @@ On the wall beside her, include a black-and-white vector-style portrait of the s
 Mood & Style: modern, minimal, and sophisticated — a soft yet confident personal-branding aesthetic with balanced composition and subtle contrast.
 
 Original Image:
-![samia pic front face](https://github.com/user-attachments/assets/684c72ec-58a7-417f-94d5-9145e7849afd)
+<img width="1024" height="1024" alt=(https://github.com/user-attachments/assets/684c72ec-58a7-417f-94d5-9145e7849afd)/>
