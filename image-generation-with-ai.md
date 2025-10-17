@@ -82,7 +82,7 @@ Mood & Style: modern, minimal, and sophisticated — a soft yet confident person
 
 ### ✅ What Worked Well
 
-# Subject grounding:
+## Subject grounding:
 The phrase “of the uploaded photo” keeps the AI focused on the same person and maintains accuracy.
 
 ## Pose direction:
