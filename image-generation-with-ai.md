@@ -85,12 +85,14 @@ Mood & Style: modern, minimal, and sophisticated — a soft yet confident person
 # Subject grounding:
 The phrase “of the uploaded photo” keeps the AI focused on the same person and maintains accuracy.
 
-# Pose direction:
+## Pose direction:
 Clear instructions like “hands in pockets, leg slightly crossed” help achieve a natural and confident look.
 
-Context & environment: Details such as “smooth light-gray wall” and “professional studio lighting” make the output look polished and brand-appropriate.
+## Context & environment:
+Details such as “smooth light-gray wall” and “professional studio lighting” make the output look polished and brand-appropriate.
 
-Added elements: The combination of a vector portrait and clean typography reinforces a strong personal branding style.
+## Added elements:
+The combination of a vector portrait and clean typography reinforces a strong personal branding style.
 
 ## 💡 Key Insight:
 For branding-focused prompts, always mix subject grounding, body language, environmental context, and design details (like logos or text) to get a complete, professional result.
